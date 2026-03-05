@@ -1,0 +1,91 @@
+{
+  "schedule": {
+    "Monday": [
+      "Leg Press",
+      "abs"
+    ],
+    "Tuesday": [
+      "Leg Press",
+      "abs"
+    ],
+    "Wednesday": [
+      "Leg Press",
+      "abs"
+    ],
+    "Thursday": [
+      "Leg Press",
+      "abs"
+    ],
+    "Friday": [
+      "Leg Press",
+      "abs"
+    ],
+    "Saturday": [
+      "Leg Press",
+      "abs"
+    ],
+    "Sunday": [
+      "Leg Press",
+      "cable row",
+      "abs"
+    ]
+  },
+  "logs": [
+    {
+      "date": "2026-03-05",
+      "exercise": "Barbell Row",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0.0,
+      "notes": "",
+      "volume": 0.0,
+      "is_pr": false
+    },
+    {
+      "date": "2026-03-05",
+      "exercise": "Barbell Row",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0.0,
+      "notes": "5",
+      "volume": 0.0,
+      "is_pr": false
+    },
+    {
+      "date": "2026-03-05",
+      "exercise": "Barbell Row",
+      "sets": 3,
+      "reps": 10,
+      "weight": 10.0,
+      "notes": "5",
+      "volume": 300.0,
+      "is_pr": true
+    }
+  ],
+  "exercises": [
+    "Bench Press",
+    "Squat",
+    "Deadlift",
+    "Overhead Press",
+    "Barbell Row",
+    "Pull-ups",
+    "Push-ups",
+    "Dips",
+    "Bicep Curl",
+    "Tricep Extension",
+    "Lat Pulldown",
+    "Leg Press",
+    "Lunges",
+    "Plank",
+    "Romanian Deadlift",
+    "Incline Bench Press",
+    "Cable Fly",
+    "Face Pull",
+    "Hip Thrust",
+    "Calf Raise",
+    "Look for an option to add new exercises or create a new exercise type.",
+    "abs",
+    "cable row",
+    "Cable Row"
+  ]
+}
